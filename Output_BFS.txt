@@ -1,0 +1,5 @@
+BFS SEARCH COMPLETED !
+Time to solve: 0.004981040954589844
+Solution : START ->  RIGHT ->  RIGHT ->  DOWN ->  RIGHT ->  RIGHT ->  RIGHT ->  DOWN -> GOAL
+Steps : 7
+Time to complete : 2.150515079498291

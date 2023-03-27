@@ -1,0 +1,5 @@
+A* SEARCH COMPLETED !
+Time to solve: 0.006946563720703125
+Solution : START ->  RIGHT ->  DOWN ->  RIGHT ->  RIGHT ->  DOWN ->  DOWN ->  RIGHT -> GOAL
+Steps : 7
+Time to complete: 2.1501684188842773
